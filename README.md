@@ -1,23 +1,14 @@
-# Проект: Путешествие по России
+# Project: Russian Travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+Hello there!
+My name is Olya. I was born and raised in Siberia, but I live in California now.
 
-**Интро**
+I've just started my study as a web developer and this is my second project I created from scratch by myself.
+This project is about travelling across Russia. You can learn about some places you can visit and take a look at these beautiful pictures.
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+I made this website responsible using HTML and CSS. I am planning to add some JS to the website once I am familiar with it :)
 
-**Figma**
+Hope you like it.
+Enjoy :)
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+[Russian Travel](https://www.yandex.ru)
