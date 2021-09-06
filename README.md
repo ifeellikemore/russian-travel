@@ -11,4 +11,4 @@ I made this website responsible using HTML and CSS. I am planning to add some JS
 Hope you like it.
 Enjoy :)
 
-[Russian Travel](https://www.yandex.ru)
+[Russian Travel](https://ifeellikemore.github.io/russian-travel/index.html)
