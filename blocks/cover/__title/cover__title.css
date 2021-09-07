@@ -4,20 +4,17 @@
   font-size: 72px;
   line-height: 106%;
   text-align: center;
-  width: 560px;
-  position: absolute;
-  top: calc(50% - 120px);
-  left: calc(50% - 280px);
-  margin: 0;
-  z-index: 2;
+  max-width: 560px;
+  margin-top: 0;
+  margin-bottom: 32px;
+  color: rgba(255, 255, 255, 1);;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .cover__title {
-    width: 288px;
+    max-width: 288px;
     font-size: 32px;
     line-height: 109%;
-    top: calc(50% - 67px);
-    left: calc(50% - 144px);
+    margin-bottom: 16px;
     }
  }
