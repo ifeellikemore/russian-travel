@@ -6,7 +6,7 @@
   margin: 0;
 }
 
-.place__paragraph:last-of-type {
+.place__paragraph:not(first-of-type) {
   margin-top: 26px;
 }
 
@@ -20,7 +20,7 @@
     line-height: 163%;
   }
 
-  .place__paragraph:last-of-type {
+  .place__paragraph:not(first-of-type) {
     margin-top: 25px;
   }
 }
@@ -33,7 +33,7 @@
     margin-right: 16px;
   }
 
-  .place__paragraph:last-of-type {
+  .place__paragraph:not(first-of-type) {
     margin-top: 25px;
   }
  }
