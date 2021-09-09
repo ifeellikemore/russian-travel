@@ -4,3 +4,11 @@
   align-items: flex-start;
   justify-content: flex-start;
 }
+
+@media screen and (max-width: 767px) {
+  .place__text {
+    margin-right: auto;
+    margin-left: auto;
+    width: calc(100% - 32px);
+  }
+}

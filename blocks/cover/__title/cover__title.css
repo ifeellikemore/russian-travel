@@ -7,11 +7,12 @@
   max-width: 560px;
   margin-top: 0;
   margin-bottom: 32px;
-  z-index: 2;
+  position: relative;
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .cover__title {
+    max-width: 288px;
     font-size: 32px;
     line-height: 109%;
     margin-bottom: 16px;

@@ -9,9 +9,8 @@
   text-align: right;
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .footer__copyright {
-    font-size: 14px;
     line-height: 100%;
     margin-right: auto;
     margin-left: 0;
